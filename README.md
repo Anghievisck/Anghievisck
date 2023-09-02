@@ -1,1 +1,1 @@
-# <div align="center"> Oi/Hi </div>
+# <div align="center"> Oi/Hi/こんにちは </div>
