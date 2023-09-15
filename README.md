@@ -2,6 +2,6 @@
 
 <div align="center">
 <br><p align="centre"><b>Contador de Visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{guiguiba0202}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Anghievisck}/count.svg" /></p> 
 <br>
 </div>
